@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureCricket</string>
+    <string name="info">Back in 1897, a scientist named Amos Dolbear published an article “The Cricket as a Thermometer” that noted the correlation between the ambient temperature and the rate at which crickets chirp.</string>
+    <string name="commmand">Enter the number of chirps in 25 sec</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="cmd">Enter number of chirps</string>
+</resources>
